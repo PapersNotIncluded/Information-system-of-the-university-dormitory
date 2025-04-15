@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d468e5e5-2c6c-4a86-b909-968bb8ea747e" name="Changes" comment="initial">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javaee.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/flow/generated-flow-imports.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/flow/generated-flow-imports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/flow/generated-flow-webcomponent-imports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/Flow.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/Flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/Flow.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/FlowBootstrap.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/FlowBootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/FlowClient.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/FlowClient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/ReactRouterOutletElement.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/comboBoxConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/contextMenuConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/contextMenuTargetConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/base-panel-PAT65VLJ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/copilot-C13q4MqC.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/copilot-features-plugin-X5kXce-4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/copilot-feedback-plugin-DKLSn5uG.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/copilot-global-vars-later-CzNWbtil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/copilot-info-plugin-C_YcoAdA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/copilot-init-step2-CTAVxKnO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/copilot-log-plugin-CUZsanI5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/copilot-shortcuts-plugin-CMwqB-9B.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/early-project-state-CqEloDes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/icons-BuP5__m2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/overlay-monkeypatch-CBuytWs_.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/copilot/state-9zf3mz-0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/datepickerConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/disableOnClickFunctions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/dndConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/flow-component-directive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/flow-component-renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/gridConnector.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/lit-renderer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/menubarConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/messageListConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/selectConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/theme-util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/tooltip.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/vaadin-big-decimal-field.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/vaadin-dev-tools/License.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/vaadin-dev-tools/connection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/vaadin-dev-tools/live-reload-connection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/vaadin-dev-tools/vaadin-dev-tools.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/vaadin-dev-tools/vaadin-dev-tools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/vaadin-dev-tools/websocket-connection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/vaadin-grid-flow-selection-column.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/vaadin-popover/popover.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/vaadin-time-picker/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/vaadin-time-picker/timepickerConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/jar-resources/virtualListConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/vaadin-featureflags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/generated/vaadin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentdormitory/MvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentdormitory/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentdormitory/RoomRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentdormitory/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentdormitory/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentdormitory/StudentManagerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentdormitory/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentdormitory/StudentRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentdormitory/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/studentdormitory/StudentDormitoryApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="StudentDormitory" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="StudentDormitory" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="StudentDormitory" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="save" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2vSehXd33RS5QEI2fDY6Hg8gMz2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Gradle.Build StudentDormitory.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build StudentDormitoryInformationSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StudentDormitory [bootRun].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StudentDormitory.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.StudentDormitoryApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.StudentManagerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JuniverCursach/StudentDormitoryInformationSystem&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.5264368&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJIdea2024.1.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JuniverCursach\StudentDormitory\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JuniverCursach\StudentDormitory\src\main\resources\static" />
+      <recent name="D:\JuniverCursach\StudentDormitory\src\main\resources\static\styles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.StudentDormitory [bootRun]">
+    <configuration name="StudentDormitory [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="StudentManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="com.example.StudentDormitory.main" />
+      <option name="SHORTEN_COMMAND_LINE" value="ARGS_FILE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.studentdormitory.StudentManagerApplication" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="SHORTEN_COMMAND_LINE" value="ARGS_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.StudentDormitory [bootRun]" />
+      <item itemvalue="Spring Boot.StudentManagerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.StudentDormitory [bootRun]" />
+        <item itemvalue="Gradle.StudentDormitory [bootRun]" />
+        <item itemvalue="Gradle.StudentDormitory [bootRun]" />
+        <item itemvalue="Gradle.StudentDormitory [bootRun]" />
+        <item itemvalue="Gradle.StudentDormitory [bootRun]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d468e5e5-2c6c-4a86-b909-968bb8ea747e" name="Changes" comment="" />
+      <created>1744143022100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744143022100</updated>
+      <workItem from="1744143023249" duration="343000" />
+      <workItem from="1744143376102" duration="216000" />
+      <workItem from="1744143698197" duration="744000" />
+      <workItem from="1744144455797" duration="5843000" />
+      <workItem from="1744150319480" duration="3206000" />
+      <workItem from="1744153603728" duration="577000" />
+      <workItem from="1744154202137" duration="226000" />
+      <workItem from="1744154442503" duration="299000" />
+      <workItem from="1744154939585" duration="133000" />
+      <workItem from="1744155107928" duration="111000" />
+      <workItem from="1744155887947" duration="553000" />
+      <workItem from="1744156455868" duration="4036000" />
+      <workItem from="1744160514261" duration="294000" />
+      <workItem from="1744160818127" duration="6853000" />
+      <workItem from="1744171488986" duration="11000" />
+      <workItem from="1744171836013" duration="261000" />
+      <workItem from="1744172744418" duration="11193000" />
+      <workItem from="1744189906956" duration="1903000" />
+      <workItem from="1744193031428" duration="254000" />
+      <workItem from="1744204944482" duration="105000" />
+      <workItem from="1744205541956" duration="608000" />
+      <workItem from="1744221486748" duration="10804000" />
+      <workItem from="1744275983021" duration="29428000" />
+      <workItem from="1744358779941" duration="302000" />
+      <workItem from="1744380598410" duration="925000" />
+      <workItem from="1744381676284" duration="2804000" />
+      <workItem from="1744466449007" duration="18106000" />
+      <workItem from="1744616549598" duration="203000" />
+      <workItem from="1744625277360" duration="91000" />
+      <workItem from="1744625385794" duration="15000" />
+      <workItem from="1744653917724" duration="4469000" />
+      <workItem from="1744662390663" duration="10422000" />
+      <workItem from="1744681940711" duration="1128000" />
+      <workItem from="1744683078173" duration="1471000" />
+      <workItem from="1744684615413" duration="1027000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <option name="closed" value="true" />
+      <created>1744685130664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744685130664</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
